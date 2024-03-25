@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started
 
 Welcome to your new project.
@@ -24,6 +23,7 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
-=======
-# SAP_CAP_DEMO
->>>>>>> 56b655069284600f2feeb64d8e692b2e7fe4921f
+
+
+## Using PostgreSQL locally
+1. 
